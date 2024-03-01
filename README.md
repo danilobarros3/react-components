@@ -5,7 +5,6 @@ Este projeto foi desenvolvido como parte do aprendizado sobre como os componente
 ## Tecnologias Utilizadas 🕹️
 
 - **React**
-- **Material-UI (Mui)**
 - **CSS**
 - **JavaScript**
 
