@@ -14,6 +14,6 @@ Este projeto foi desenvolvido como parte do aprendizado sobre como os componente
 1. **Clone o Repositório:**
    ```bash
    git clone https://github.com/danilobarros3/react-components.git
-2. ```bash npm install ```
-3. ```bash npm start ```
+2. ```npm install ```
+3. ```npm start ```
 
